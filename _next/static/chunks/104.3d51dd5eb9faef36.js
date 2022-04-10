@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[104],{4104:function(e,t,s){s.r(t);var o=s(5893);s(7160);t.default=function(){return(0,o.jsx)("model-viewer",{src:"".concat("","/assets/test.glb"),"ios-src":"",poster:"",alt:"A 3D model of voxel towers","shadow-intensity":"1","camera-controls":!0,"auto-rotate":!0,ar:!0})}}}]);
